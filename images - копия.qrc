@@ -1,0 +1,173 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>pictures/background.jpg</file>
+        <file>pictures/Айвазовский И К/Девятый вал.jpg</file>
+        <file>pictures/Айвазовский И К/Свадьба на Украине.jpg</file>
+        <file>pictures/Айвазовский И К/Среди волн.jpg</file>
+        <file>pictures/Айвазовский И К/Тонущий корабль.jpg</file>
+        <file>pictures/Айвазовский И К/Черноморский флот в Феодосии.jpg</file>
+        <file>pictures/Айвазовский И К/Чесменский бой.jpg</file>
+        <file>pictures/Бенуа А Н/Итальянская комедия.jpg</file>
+        <file>pictures/Бенуа А Н/Китайский павильон.jpg</file>
+        <file>pictures/Бенуа А Н/Медный всадник.jpg</file>
+        <file>pictures/Бенуа А Н/Парад при Павле 1.jpg</file>
+        <file>pictures/Босх И/Извлечение камня глупости.jpg</file>
+        <file>pictures/Босх И/Семь смертных грехов.jpg</file>
+        <file>pictures/Босх И/Человек дерево.jpg</file>
+        <file>pictures/Боттичелли С/Рождение Венеры.jpg</file>
+        <file>pictures/Боттичелли С/Христос в терновом венце.jpg</file>
+        <file>pictures/Брюллов К П/Автопортрет.jpg</file>
+        <file>pictures/Брюллов К П/Бахчисарайский фонтан.jpeg</file>
+        <file>pictures/Брюллов К П/Всадница.jpg</file>
+        <file>pictures/Брюллов К П/Итальянский полдень.jpg</file>
+        <file>pictures/Брюллов К П/Портрет И А Крылова.jpg</file>
+        <file>pictures/Брюллов К П/Последний день Помпеи.jpg</file>
+        <file>pictures/Вангог В/Автопортрет в соломенной шляпе.jpg</file>
+        <file>pictures/Вангог В/Ваза с 12 подсолнухами.jpg</file>
+        <file>pictures/Вангог В/Звездная ночь.jpg</file>
+        <file>pictures/Вангог В/Спальня в Арле.jpg</file>
+        <file>pictures/Васнецов В М/Автопортрет.jpg</file>
+        <file>pictures/Васнецов В М/Аленушка.jpg</file>
+        <file>pictures/Васнецов В М/Баян.jpg</file>
+        <file>pictures/Васнецов В М/Богатыри.jpg</file>
+        <file>pictures/Васнецов В М/Бой скифов со славянами.jpg</file>
+        <file>pictures/Васнецов В М/Витязь на распутье.jpg</file>
+        <file>pictures/Васнецов В М/Войны апокалипсиса.jpg</file>
+        <file>pictures/Васнецов В М/Иван Царевич на сером волке.jpg</file>
+        <file>pictures/Васнецов В М/Ковер самолет.jpg</file>
+        <file>pictures/Васнецов В М/Сирин и Алконост Песть радости и печали.jpg</file>
+        <file>pictures/Васнецов В М/Спящая красавица.jpg</file>
+        <file>pictures/Васнецов В М/Три царевны подземного царства.jpg</file>
+        <file>pictures/Васнецов В М/Царевна лягушка.jpg</file>
+        <file>pictures/Венецианов А Г/Автопортрет.jpg</file>
+        <file>pictures/Венецианов А Г/Жатва.jpg</file>
+        <file>pictures/Венецианов А Г/На пашне  Весна.jpg</file>
+        <file>pictures/Венецианов А Г/Петр Великий  Основание Санкт Петербурга.jpg</file>
+        <file>pictures/Верещагин В В/Апофеоз войны.jpg</file>
+        <file>pictures/Вермеер Я/Девушка с жемчужной сережкой.jpg</file>
+        <file>pictures/Вермеер Я/Молодая девушка с кувшином воды.jpg</file>
+        <file>pictures/Вермеер Я/Молочница.jpg</file>
+        <file>pictures/Врубель М А/Богатырь.jpg</file>
+        <file>pictures/Врубель М А/Демон сидящий.jpg</file>
+        <file>pictures/Врубель М А/Царевна лебедь.jpg</file>
+        <file>pictures/Ге Н Н/Петр Первый допрашивает царевича Алексея Петровича в Петергофе.jpg</file>
+        <file>pictures/Ге Н Н/Суд царя Саломона.jpg</file>
+        <file>pictures/Гоген П/Беседа.jpg</file>
+        <file>pictures/Гоген П/Озорная шутка.jpg</file>
+        <file>pictures/Греко Э/Автопортрет.jpg</file>
+        <file>pictures/Греко Э/Апостолы Петр и Павел.jpg</file>
+        <file>pictures/Да Винчи Л/Автопортрет.jpg</file>
+        <file>pictures/Да Винчи Л/Витрувианский человек.jpg</file>
+        <file>pictures/Да Винчи Л/Дама с горностаем.jpg</file>
+        <file>pictures/Да Винчи Л/Мадонна Бенуа.jpg</file>
+        <file>pictures/Да Винчи Л/Мадонна Литта.jpg</file>
+        <file>pictures/Да Винчи Л/Мона Лиза.jpg</file>
+        <file>pictures/Да Винчи Л/Тайная вечеря.jpg</file>
+        <file>pictures/Дюрер А/Автопортрет в одежде отделанной мехом.jpg</file>
+        <file>pictures/Дюрер А/Заяц.jpg</file>
+        <file>pictures/Дюрер А/Портрет императора Максимилиана Первого.jpg</file>
+        <file>pictures/Иванов А А/Явление Христа народу.jpg</file>
+        <file>pictures/Кароваджо М/Юноша с лютней.jpg</file>
+        <file>pictures/Кипренский О А/Дмитрий Донской на Куликовом поле.jpg</file>
+        <file>pictures/Кипренский О А/Конный портрет Александра 1.jpg</file>
+        <file>pictures/Кипренский О А/Портрет поэта А С Пушкина.jpg</file>
+        <file>pictures/Климт Г/Портрет Адели Блох Бауэр.jpg</file>
+        <file>pictures/Климт Г/Поцелуй.jpg</file>
+        <file>pictures/Крамской И Н/Автопортрет.jpg</file>
+        <file>pictures/Крамской И Н/Девушка с распущенной косой.jpg</file>
+        <file>pictures/Крамской И Н/Неизвестная.jpg</file>
+        <file>pictures/Крамской И Н/Портрет Веры Николаевны Третьяковой.jpg</file>
+        <file>pictures/Крамской И Н/Портрет писателя Льва Николаевича Толстого.jpg</file>
+        <file>pictures/Крамской И Н/Христос в пустыне.jpg</file>
+        <file>pictures/Куинджи А И/Ладожское озеро.jpg</file>
+        <file>pictures/Куинджи А И/Лунная ночь на Днепре.jpg</file>
+        <file>pictures/Кустодиев Б М/Автопортрет.jpg</file>
+        <file>pictures/Кустодиев Б М/Купчиха за чаем.jpg</file>
+        <file>pictures/Кустодиев Б М/Купчихи.jpg</file>
+        <file>pictures/Кустодиев Б М/Масленница.jpg</file>
+        <file>pictures/Кустодиев Б М/Портрет Шаляпина.jpg</file>
+        <file>pictures/Кустодиев Б М/Ярмарка.jpg</file>
+        <file>pictures/Левитан И И/Автопортрет.jpg</file>
+        <file>pictures/Левитан И И/Березовая роща.jpg</file>
+        <file>pictures/Левитан И И/Март.jpg</file>
+        <file>pictures/Левитан И И/На озере.jpg</file>
+        <file>pictures/Левитан И И/Портрет А П Чехова.jpg</file>
+        <file>pictures/Левицкий Д Г/Екатерина Вторая законодательница.jpg</file>
+        <file>pictures/Левицкий Д Г/Портрет Екатерина второй.jpg</file>
+        <file>pictures/Левицкий Д Г/Портрет Суворова.jpg</file>
+        <file>pictures/Матисс А/Танец.jpg</file>
+        <file>pictures/Мунк Э/Крик.jpg</file>
+        <file>pictures/Муха А/Весна.jpg</file>
+        <file>pictures/Муха А/Принцесса Гиацинт.jpg</file>
+        <file>pictures/Перов В Г/Охотники на привале.jpg</file>
+        <file>pictures/Перов В Г/Портрет Ф М Достоевского.jpg</file>
+        <file>pictures/Перов В Г/Приезд гувернантки в купеческий дом.jpg</file>
+        <file>pictures/Перов В Г/Птицелов.jpg</file>
+        <file>pictures/Перов В Г/Снятие с креста.jpg</file>
+        <file>pictures/Перов В Г/Спящие дети.jpg</file>
+        <file>pictures/Перов В Г/Суд Пугачева.jpg</file>
+        <file>pictures/Перов В Г/Тройка.jpg</file>
+        <file>pictures/Пикассо П/Девочка на шаре.jpg</file>
+        <file>pictures/Пикассо П/Любительница абсцента.jpg</file>
+        <file>pictures/Рафаэль С/Автопортрет.jpg</file>
+        <file>pictures/Рафаэль С/Сикстинская Мадонна.jpg</file>
+        <file>pictures/Ребрандт Х В/Возвращение блудного сына.jpg</file>
+        <file>pictures/Ребрандт Х В/Ночной дозор.jpg</file>
+        <file>pictures/Ребрандт Х В/Пир Валтасара.jpg</file>
+        <file>pictures/Ребрандт Х В/Урок анатомии доктора Тульпа.jpg</file>
+        <file>pictures/Репин И Е/Автопортрет.jpg</file>
+        <file>pictures/Репин И Е/Бурлаки на Волге.jpg</file>
+        <file>pictures/Репин И Е/Запорожцы пишут письмо турецкому султану.jpg</file>
+        <file>pictures/Репин И Е/Иван Грозный и сын его Иван.jpg</file>
+        <file>pictures/Репин И Е/Крестный ход в Курской губернии.jpg</file>
+        <file>pictures/Репин И Е/Не ждали.jpeg</file>
+        <file>pictures/Репин И Е/Портрет Николая второго.jpg</file>
+        <file>pictures/Репин И Е/Портрет П Мусоргского.jpg</file>
+        <file>pictures/Репин И Е/Садко.jpg</file>
+        <file>pictures/Репин И Е/Толстой на пашне.jpg</file>
+        <file>pictures/Репин И Е/Хирург В Павлов в операционном зале.jpg</file>
+        <file>pictures/Рублев А/Апостол Павел.jpg</file>
+        <file>pictures/Рублев А/Богоматерь Владимирская.jpg</file>
+        <file>pictures/Рублев А/Троица.jpg</file>
+        <file>pictures/Саврасов А К/Грачи прилетели.jpg</file>
+        <file>pictures/Саврасов А К/Зимняя дорога.jpg</file>
+        <file>pictures/Саврасов А К/Лосиный остров в Сокольниках.jpg</file>
+        <file>pictures/Саврасов А К/Распутица.jpg</file>
+        <file>pictures/Саврасов А К/Рожь.jpg</file>
+        <file>pictures/Сальвадор Дали/Искушение Святого Антония.jpg</file>
+        <file>pictures/Сальвадор Дали/Лебеди отражающиеся в слонах.jpg</file>
+        <file>pictures/Сальвадор Дали/Постоянство памяти.jpg</file>
+        <file>pictures/Сальвадор Дали/Сон вызванный полетом пчелы вокруг граната.jpg</file>
+        <file>pictures/Сезанн П/Автопортрет.jpg</file>
+        <file>pictures/Сезанн П/Арлекин.jpg</file>
+        <file>pictures/Сезанн П/Натюрморт с яблоками.jpg</file>
+        <file>pictures/Серов В А/Девочка с персиками.png</file>
+        <file>pictures/Серов В А/Миропомазание Александра Николаевича.jpg</file>
+        <file>pictures/Серов В А/Петр 1.jpg</file>
+        <file>pictures/Серов В А/Портрет Левитана.jpg</file>
+        <file>pictures/Серов В А/Похищение Европы.jpg</file>
+        <file>pictures/Суриков В И/Автопортрет.jpg</file>
+        <file>pictures/Суриков В И/Боярыня морозова.jpg</file>
+        <file>pictures/Суриков В И/Покорение сибири Ермаком.jpg</file>
+        <file>pictures/Суриков В И/Посещение царевны женского монастыря.jpg</file>
+        <file>pictures/Суриков В И/Степан разин.jpg</file>
+        <file>pictures/Суриков В И/Утро стрелецкой казни.jpg</file>
+        <file>pictures/Тициан В/Автопортрет.jpg</file>
+        <file>pictures/Тициан В/Адам и Ева.jpg</file>
+        <file>pictures/Тициан В/Мадонна с младенцем.jpg</file>
+        <file>pictures/Тициан В/Святой Себастьян.jpg</file>
+        <file>pictures/Уорхол Э/Банка с супом Кэмпбелл.jpg</file>
+        <file>pictures/Федотов П А/Завтрак аристократа.jpg</file>
+        <file>pictures/Федотов П А/Разборчивая невеста.jpg</file>
+        <file>pictures/Федотов П А/Сватовство майора.jpg</file>
+        <file>pictures/Федотов П А/Свежий кавалер.jpg</file>
+        <file>pictures/Флавицкий К Д/Смерть княжны Таракановой.jpg</file>
+        <file>pictures/Шишкин И И/Автопортрет.jpg</file>
+        <file>pictures/Шишкин И И/Дубки.jpg</file>
+        <file>pictures/Шишкин И И/За грибами.jpg</file>
+        <file>pictures/Шишкин И И/На севере диком.jpg</file>
+        <file>pictures/Шишкин И И/Рожь.jpg</file>
+        <file>pictures/Шишкин И И/Сосна на песке.jpg</file>
+        <file>pictures/Шишкин И И/Утро в сосновом лесу.jpg</file>
+    </qresource>
+</RCC>
